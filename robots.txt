@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://roicomsat1.github.io/creatorpath-affiliate-kit/sitemap.xml
